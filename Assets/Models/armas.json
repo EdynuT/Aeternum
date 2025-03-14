@@ -1,0 +1,68 @@
+{
+  "armas": [
+    {
+      "nome": "Machado Simples",
+      "peso": 3,
+      "dano_fisico_dice": "1d6",
+      "tipo_dano": "cortante",
+      "durabilidade_atual": 40,
+      "durabilidade_maxima": 40
+    },
+    {
+      "nome": "Espada Longa",
+      "peso": 2,
+      "dano_fisico_dice": "1d8",
+      "tipo_dano": "corte",
+      "durabilidade_atual": 35,
+      "durabilidade_maxima": 35
+    },
+    {
+      "nome": "Adaga",
+      "peso": 1,
+      "dano_fisico_dice": "1d4",
+      "tipo_dano": "perfuração",
+      "durabilidade_atual": 25,
+      "durabilidade_maxima": 25
+    },
+    {
+      "nome": "Martelo Pesado",
+      "peso": 4,
+      "dano_fisico_dice": "1d10",
+      "tipo_dano": "concussão",
+      "durabilidade_atual": 30,
+      "durabilidade_maxima": 30
+    },
+    {
+      "nome": "Cajado Mágico",
+      "peso": 2,
+      "dano_fisico_dice": "1d6",
+      "tipo_dano": "mágico",
+      "durabilidade_atual": 20,
+      "durabilidade_maxima": 20
+    },
+    {
+      "nome": "Soqueiras",
+      "peso": 1.5,
+      "dano_fisico_dice": "1d6",
+      "tipo_dano": "contusão",
+      "durabilidade_atual": 30,
+      "durabilidade_maxima": 30
+    },
+    {
+      "nome": "Arco Curto",
+      "peso": 2.5,
+      "dano_fisico_dice": "1d8",
+      "tipo_dano": "perfurante",
+      "durabilidade_atual": 30,
+      "durabilidade_maxima": 30
+    },
+    {
+      "nome": "Besta de Caça",
+      "peso": 3,
+      "dano_fisico_dice": "1d10",
+      "tipo_dano": "perfurante",
+      "durabilidade_atual": 25,
+      "durabilidade_maxima": 25
+    }
+  ]
+}
