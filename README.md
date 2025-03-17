@@ -52,9 +52,13 @@ A organização do projeto segue uma abordagem modular, com separação clara en
 
 Este é um projeto pessoal em andamento. Feedback, sugestões e contribuições são bem-vindos! Sinta-se à vontade para entrar em contato.
 
+---
+
 ## 📬 **Contato**
 
 Criado por Edynu. Se você quiser acompanhar o progresso ou contribuir, entre em contato: contatoeduardocsantos@gmail.com
+
+---
 
 ## 🎮 **Inspirado Por**
 
