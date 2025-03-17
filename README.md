@@ -6,7 +6,11 @@
 
 ## Versão
 
-**Versão Atual:** 0.0.1
+**Versão Atual:** 0.0.2
+
+### Alpha 0.0.2
+
+- Correção de alguns arquivos que não haviam sido postados no github
 
 ### Alpha 0.0.1
 
